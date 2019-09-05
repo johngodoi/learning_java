@@ -59,7 +59,7 @@ class Student extends Person {
     // Write your method here
 }
 
-class Solution {
+class Day12 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String firstName = scan.next();
